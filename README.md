@@ -10,6 +10,8 @@ Allows you to create a label in all existing repositories in an organization.
 ### `triage/subscribe-to-org-repos.js` - Subscribe to Org Repos
 Allows you to subscribe to all repositories in an organization.
 
+Note: Create the token with the Personal access tokens (classic) methods
+
 ## Usage
 1. Clone the repository
 2. Install the required dependency for the script you want to use
