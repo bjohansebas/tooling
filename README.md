@@ -12,7 +12,7 @@ Allows you to subscribe to all repositories in an organization.
 
 ## Usage
 1. Clone the repository
-2. Install the required dependency for the script you want to use
+2. Run `npm install` to install dependencies
 3. Make necessary changes to the script
 4. Run the script
 
